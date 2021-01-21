@@ -1,4 +1,4 @@
-FROM jupyter/datascience-notebook
+FROM rubydata/datascience-notebook
 
 RUN pip install tqdm plotly line_profiler
 RUN pip install jupyter jupyterhub ethercalc-python
