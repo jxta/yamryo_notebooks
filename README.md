@@ -1,12 +1,12 @@
 
-***Collatz problem@mybinder*** &nbsp;&nbsp;  [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jxta/yamryo_notebooks/HEAD?filepath=Lecture%2FCollatz%20problem.ipynb)
+ [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jxta/yamryo_notebooks/HEAD?filepath=Lecture%2FCollatz%20problem.ipynb) &nbsp;&nbsp;  ***Collatz problem@mybinder*** 
 
-***Collatz problem@NII binderhub*** &nbsp;&nbsp; [![Binder](https://binder.cs.rcos.nii.ac.jp/badge_logo.svg)](https://binder.cs.rcos.nii.ac.jp/v2/gh/jxta/yamryo_notebooks/master?filepath=Lecture%2FCollatz%20problem.ipynb)
+ [![Binder](https://binder.cs.rcos.nii.ac.jp/badge_logo.svg)](https://binder.cs.rcos.nii.ac.jp/v2/gh/jxta/yamryo_notebooks/master?filepath=Lecture%2FCollatz%20problem.ipynb) &nbsp;&nbsp; ***Collatz problem@NII binderhub*** 
 
-***IncidenceMatrix@mybinder*** &nbsp;&nbsp; [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jxta/yamryo_notebooks/HEAD?filepath=Research%2FComponents_of_quasiCord%2FIncidenceMatrix.ipynb)
+ [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jxta/yamryo_notebooks/HEAD?filepath=Research%2FComponents_of_quasiCord%2FIncidenceMatrix.ipynb) &nbsp;&nbsp; ***IncidenceMatrix@mybinder*** 
 
-***IncidenceMatrix@NII binderhub*** &nbsp;&nbsp; [![Binder](https://binder.cs.rcos.nii.ac.jp/badge_logo.svg)](https://binder.cs.rcos.nii.ac.jp/v2/gh/jxta/yamryo_notebooks/master?filepath=Research%2FComponents_of_quasiCord%2FIncidenceMatrix.ipynb)
+[![Binder](https://binder.cs.rcos.nii.ac.jp/badge_logo.svg)](https://binder.cs.rcos.nii.ac.jp/v2/gh/jxta/yamryo_notebooks/master?filepath=Research%2FComponents_of_quasiCord%2FIncidenceMatrix.ipynb) &nbsp;&nbsp; ***IncidenceMatrix@NII binderhub***  
 
-***Word_and_FreeGroup@mybinder*** &nbsp;&nbsp; [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jxta/yamryo_notebooks/HEAD?filepath=Research%2FWord_and_FreeGroup.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jxta/yamryo_notebooks/HEAD?filepath=Research%2FWord_and_FreeGroup.ipynb)  &nbsp;&nbsp;  ***Word_and_FreeGroup@mybinder*** 
 
-***Word_and_FreeGroup@NII binderhub*** &nbsp;&nbsp; [![Binder](https://binder.cs.rcos.nii.ac.jp/badge_logo.svg)](https://binder.cs.rcos.nii.ac.jp/v2/gh/jxta/yamryo_notebooks/master?filepath=Research%2FWord_and_FreeGroup.ipynb)
+[![Binder](https://binder.cs.rcos.nii.ac.jp/badge_logo.svg)](https://binder.cs.rcos.nii.ac.jp/v2/gh/jxta/yamryo_notebooks/master?filepath=Research%2FWord_and_FreeGroup.ipynb) &nbsp;&nbsp;  ***Word_and_FreeGroup@NII binderhub*** 
