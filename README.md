@@ -1,4 +1,4 @@
-**Research Exmplaes**
+**Research Examples**
 
  [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jxta/yamryo_notebooks/HEAD?filepath=Lecture%2FCollatz%20problem.ipynb) &nbsp;&nbsp;  ***Collatz problem@mybinder*** 
 
@@ -12,4 +12,4 @@
 
 [![Binder](https://binder.cs.rcos.nii.ac.jp/badge_logo.svg)](https://binder.cs.rcos.nii.ac.jp/v2/gh/jxta/yamryo_notebooks/master?filepath=Research%2FWord_and_FreeGroup.ipynb) &nbsp;&nbsp;  ***Word_and_FreeGroup@NII binderhub*** 
 
-**Lecture  Exmplaes**
+**Lecture  Examples**
