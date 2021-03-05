@@ -2,7 +2,7 @@ FROM rubydata/datascience-notebook
 
 RUN pip install tqdm plotly line_profiler
 RUN pip install jupyter jupyterhub ethercalc-python
-RUN git clone https://github.com/jxta/yamryo_notebooks.g
+RUN git clone https://github.com/jxta/yamryo_notebooks.git
 ARG NB_USER=jovyan
 ARG NB_UID=1000
 ENV USER ${NB_USER}
