@@ -14,7 +14,7 @@ ENV HOME /home/${NB_USER}
 #    --uid ${NB_UID} \
 #    ${NB_USER}
 
-COPY . ${HOME}
+# COPY . ${HOME}
 USER root
 RUN chown -R ${NB_UID} ${HOME}
 USER ${NB_USER}
